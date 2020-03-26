@@ -119,7 +119,7 @@
         - Пирамида тестирования
         - Оптимизация количества тестирования
     - Работа с багами
-    - Управление инцидентами
+    - [Управление инцидентами](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/incident-management.md)
     - Метрики и мониторинг
     - Нефункциональные требования
 - Обеспечение технического качества
@@ -133,7 +133,7 @@
     - Выбор технологий и контроль их стека
 - Автоматизация цикла разработки
     - Работа с VCS
-    - CI
+    - [CI](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/ci.md)
     - Автоматизация релизов
 - Управление знаниями
     - Распространение знаний
@@ -154,7 +154,7 @@
             - Движение
             - Контроль выполнения
         - Готовые подходы
-            - Scrum
+            - [Scrum](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/administrator/scrum.md)
             - Lean
     - Выпуск задач
         - Приёмка
@@ -169,7 +169,7 @@
 ### Развитие себя
 - [Умение учиться](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/learning.md)
 - [Рефлексия](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/reflection.md)
-- Выработка привычек
+- [Работа с привычками](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/habits.md)
 ### Отношения
 - Эмпатия
 - [Эмоциональный интеллект](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/emotional-intelligence.md)
@@ -182,7 +182,7 @@
 ### Коммуникации
 - [Фасилитация](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/facilitation.md)
 - [Сотрудничество](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/cooperation.md)
-- Управление конфликтами
+- [Управление конфликтами](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/conflicts.md)
 - [Дача и получение обратной связи](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/feedback.md)
 - [Нетворкинг](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/networking.md)
 - [Публичные выступления](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/public-speaking.md)
@@ -190,7 +190,7 @@
 ### Тайм-менеджмент
 - Постановка личных целей
 - [Управление временем](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/time-management.md)
-- Управление приоритетами
+- [Управление приоритетами](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/prioritization.md)
 <!--roadmap.mm table of contents end-->
 
 # Лицензия
